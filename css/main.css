@@ -12,6 +12,15 @@ main {
   padding-top: 102px;
 }
 
+.clean-transition * {
+  -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -o-transition: none !important;
+  -ms-transition: none !important;
+  transition: none !important;
+}
+
+
 @media (max-width: 580px) {
   .content-container {
     padding-left: 15px;
