@@ -180,7 +180,7 @@ main {
 
 @media (max-width: 470px) {
   #nav-bar .nav-list a {
-    font-size: 10px;
+    font-size: 12px;
   }
 
   #nav-bar .contact__btn {
